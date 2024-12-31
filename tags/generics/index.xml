@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generics on My blog</title>
+    <link>https://example.com/tags/generics/</link>
+    <description>Recent content in Generics on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/generics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiểu về Generics trong Java</title>
+      <link>https://example.com/post/java-generics/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-generics/</guid>
+      
+        <description><h3 id="generics-là-gì">Generics là gì?</h3>
+<p>Generics cho phép bạn tạo các class, interface và method mà kiểu dữ liệu có thể được chỉ định khi sử dụng.</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OOP on My blog</title>
+    <link>https://example.com/tags/oop/</link>
+    <description>Recent content in OOP on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm quen với OOP trong Java</title>
+      <link>https://example.com/post/oop-java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/oop-java/</guid>
+      
+        <description><h3 id="oop-là-gì">OOP là gì?</h3>
+<p>Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một mô hình lập trình dựa trên khái niệm &ldquo;đối tượng&rdquo; (objects). Trong Java, OOP là cốt lõi, giúp bạn mô hình hóa các đối tượng trong thế giới thực vào chương trình.</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,18 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on Luu Duc Loc</title>
-    <link>//localhost:1313/tags/java/</link>
-    <description>Recent content in Java on Luu Duc Loc</description>
+    <title>Java on My blog</title>
+    <link>https://example.com/tags/java/</link>
+    <description>Recent content in Java on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài Học Nâng Cao Về Java: Lambda Expressions</title>
+      <link>https://example.com/post/lambda-expressions/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/lambda-expressions/</guid>
+      
+        <description>Tìm hiểu về Lambda Expressions trong Java, giúp viết code ngắn gọn, biểu cảm và hỗ trợ lập trình hàm.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài Học Cơ Bản Về Java: Biến và Kiểu Dữ Liệu</title>
+      <link>https://example.com/post/bien-va-du-lieu/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/bien-va-du-lieu/</guid>
+      
+        <description>Tìm hiểu về cách khai báo biến và các kiểu dữ liệu cơ bản trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hiểu về Generics trong Java</title>
+      <link>https://example.com/post/java-generics/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-generics/</guid>
+      
+        <description><h3 id="generics-là-gì">Generics là gì?</h3>
+<p>Generics cho phép bạn tạo các class, interface và method mà kiểu dữ liệu có thể được chỉ định khi sử dụng.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Làm quen với OOP trong Java</title>
+      <link>https://example.com/post/oop-java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/oop-java/</guid>
+      
+        <description><h3 id="oop-là-gì">OOP là gì?</h3>
+<p>Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một mô hình lập trình dựa trên khái niệm &ldquo;đối tượng&rdquo; (objects). Trong Java, OOP là cốt lõi, giúp bạn mô hình hóa các đối tượng trong thế giới thực vào chương trình.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Làm việc với Collections Framework trong Java</title>
+      <link>https://example.com/post/collection-framework/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/collection-framework/</guid>
+      
+        <description><h3 id="giới-thiệu-về-collections-framework">Giới thiệu về Collections Framework</h3>
+<p>Collections Framework trong Java là một tập hợp các class và interface được thiết kế để lưu trữ và quản lý dữ liệu. Đây là một phần không thể thiếu giúp lập trình viên làm việc với các cấu trúc dữ liệu như danh sách, tập hợp, hàng đợi và bản đồ.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Lập trình đa luồng (Multithreading) trong Java</title>
+      <link>https://example.com/post/java-threads/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-threads/</guid>
+      
+        <description><h3 id="giới-thiệu-về-multithreading">Giới thiệu về Multithreading</h3>
+<p>Đa luồng (Multithreading) cho phép một chương trình thực thi nhiều luồng (thread) đồng thời, giúp tối ưu hóa hiệu suất.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Xử lý ngoại lệ (Exception Handling) trong Java</title>
+      <link>https://example.com/post/java-exception-handling/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-exception-handling/</guid>
+      
+        <description><h3 id="giới-thiệu-về-exception-handling">Giới thiệu về Exception Handling</h3>
+<p>Ngoại lệ (Exception) là các lỗi xảy ra trong thời gian chạy, như chia cho 0 hoặc truy cập vào một phần tử không tồn tại trong mảng.</p></description>
+      
+    </item>
+    
     <item>
       <title>Bài Học Cơ Bản Về Java</title>
-      <link>//localhost:1313/posts/bai-hoc-co-ban-ve-java/</link>
+      <link>https://example.com/post/bai-hoc-co-ban-ve-java/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/bai-hoc-co-ban-ve-java/</guid>
+      <guid>https://example.com/post/bai-hoc-co-ban-ve-java/</guid>
       
         <description>Tìm hiểu về cách viết chương trình Java đầu tiên.</description>
       

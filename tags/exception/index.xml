@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exception on My blog</title>
+    <link>https://example.com/tags/exception/</link>
+    <description>Recent content in Exception on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/exception/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xử lý ngoại lệ (Exception Handling) trong Java</title>
+      <link>https://example.com/post/java-exception-handling/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-exception-handling/</guid>
+      
+        <description><h3 id="giới-thiệu-về-exception-handling">Giới thiệu về Exception Handling</h3>
+<p>Ngoại lệ (Exception) là các lỗi xảy ra trong thời gian chạy, như chia cho 0 hoặc truy cập vào một phần tử không tồn tại trong mảng.</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

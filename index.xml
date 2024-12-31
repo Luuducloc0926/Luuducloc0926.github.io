@@ -2,200 +2,190 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Awards</title>
-      <link>http://localhost:1313/awards/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Bài Học Nâng Cao Về Java: Lambda Expressions</title>
+      <link>https://example.com/post/lambda-expressions/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/awards/</guid>
+      <guid>https://example.com/post/lambda-expressions/</guid>
       
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+        <description>Tìm hiểu về Lambda Expressions trong Java, giúp viết code ngắn gọn, biểu cảm và hỗ trợ lập trình hàm.</description>
       
     </item>
     
     <item>
-      <title>Certifications</title>
-      <link>http://localhost:1313/certifications/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Bài Học Cơ Bản Về Java: Biến và Kiểu Dữ Liệu</title>
+      <link>https://example.com/post/bien-va-du-lieu/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/certifications/</guid>
+      <guid>https://example.com/post/bien-va-du-lieu/</guid>
+      
+        <description>Tìm hiểu về cách khai báo biến và các kiểu dữ liệu cơ bản trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hiểu về Generics trong Java</title>
+      <link>https://example.com/post/java-generics/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-generics/</guid>
+      
+        <description><h3 id="generics-là-gì">Generics là gì?</h3>
+<p>Generics cho phép bạn tạo các class, interface và method mà kiểu dữ liệu có thể được chỉ định khi sử dụng.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Làm quen với OOP trong Java</title>
+      <link>https://example.com/post/oop-java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/oop-java/</guid>
+      
+        <description><h3 id="oop-là-gì">OOP là gì?</h3>
+<p>Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một mô hình lập trình dựa trên khái niệm &ldquo;đối tượng&rdquo; (objects). Trong Java, OOP là cốt lõi, giúp bạn mô hình hóa các đối tượng trong thế giới thực vào chương trình.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Làm việc với Collections Framework trong Java</title>
+      <link>https://example.com/post/collection-framework/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/collection-framework/</guid>
+      
+        <description><h3 id="giới-thiệu-về-collections-framework">Giới thiệu về Collections Framework</h3>
+<p>Collections Framework trong Java là một tập hợp các class và interface được thiết kế để lưu trữ và quản lý dữ liệu. Đây là một phần không thể thiếu giúp lập trình viên làm việc với các cấu trúc dữ liệu như danh sách, tập hợp, hàng đợi và bản đồ.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Lập trình đa luồng (Multithreading) trong Java</title>
+      <link>https://example.com/post/java-threads/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-threads/</guid>
+      
+        <description><h3 id="giới-thiệu-về-multithreading">Giới thiệu về Multithreading</h3>
+<p>Đa luồng (Multithreading) cho phép một chương trình thực thi nhiều luồng (thread) đồng thời, giúp tối ưu hóa hiệu suất.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Xử lý ngoại lệ (Exception Handling) trong Java</title>
+      <link>https://example.com/post/java-exception-handling/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-exception-handling/</guid>
+      
+        <description><h3 id="giới-thiệu-về-exception-handling">Giới thiệu về Exception Handling</h3>
+<p>Ngoại lệ (Exception) là các lỗi xảy ra trong thời gian chạy, như chia cho 0 hoặc truy cập vào một phần tử không tồn tại trong mảng.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Bài Học Cơ Bản Về Java</title>
+      <link>https://example.com/post/bai-hoc-co-ban-ve-java/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/bai-hoc-co-ban-ve-java/</guid>
+      
+        <description>Tìm hiểu về cách viết chương trình Java đầu tiên.</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về tôi</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      
+        <description>Tìm hiểu một chút về tôi</description>
+      
+    </item>
+    
+    <item>
+      <title>Java so với JavaScript. Cái nào là lựa chọn tốt nhất cho việc học</title>
+      <link>https://example.com/post/java-vs-javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/java-vs-javascript/</guid>
+      
+        <description><p>Nó giống như Java và JavaScript, các ngôn ngữ lập trình chắc chắn sẽ đọ sức với nhau mãi mãi. Nó bắt đầu với cái tên. JavaScript chắc chắn sẽ bị nhầm lẫn vĩnh viễn như một số phần mở rộng cho Java, và thực sự nó bị nhầm lẫn với Java rất nhiều. Cho đến tận ngày nay, vào năm 2023. Tất nhiên, tại CodeGym, chúng tôi mạo hiểm hy vọng rằng những khán giả đáng kính của chúng tôi đủ thành thạo để nhận thức rõ rằng Java và JavaScript là hai ngôn ngữ lập trình khác nhau. Mặc dù điều này vẫn chưa loại bỏ Java và JavaScript. Với hơn 7 triệu và 12 triệu nhà phát triển trên toàn thế giới, hai ngôn ngữ này cạnh tranh với nhau (và với Python là ứng cử viên thứ ba) cho danh hiệu ngôn ngữ lập trình được sử dụng nhiều nhất và có nhu cầu cao trên thế giới.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript: Giới thiệu một số câu lệnh console hữu ích</title>
+      <link>https://example.com/post/console/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/console/</guid>
+      
+        <description>Tìm hiểu về các câu lệnh console</description>
+      
+    </item>
+    
+    <item>
+      <title>Chứng nhận</title>
+      <link>https://example.com/certifications/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
     </item>
     
     <item>
-      <title>The Notice Shortcode</title>
-      <link>http://localhost:1313/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Awards</title>
+      <link>https://example.com/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      <guid>https://example.com/awards/</guid>
       
-        <description><p>The notice shortcode supports three different types of disclaimers. These are as following:</p></description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 2</title>
-      <link>http://localhost:1313/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-2/</guid>
-      
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
-      <link>http://localhost:1313/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>http://localhost:1313/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/figure-shortcode/</guid>
-      
-        <description><p>Hugo has <code>figure</code> shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:</p></description>
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://example.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://example.com/archives/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
-    <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.com/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://example.com/contact/</guid>
       
         <description>Contact Page</description>
       
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      
-        <description>A brief guide to setup KaTeX</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>http://localhost:1313/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/image-test/</guid>
-      
-        <description>Guide to Thumbnails in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
       <title></title>
-      <link>http://localhost:1313/imprint/</link>
+      <link>https://example.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/imprint/</guid>
+      <guid>https://example.com/imprint/</guid>
       
-        <description><h1 id="legal-disclosure">Legal Disclosure</h1>
-<p>Information in accordance with the applicable law</p>
-<p>Jane Doe<br>
-Anatole Street 10<br>
-2016 GoHugo<br>
-Germany</p></description>
+        <description><h1 id="tiết-lộ-pháp-lý">Tiết lộ pháp lý</h1>
+<p>Thông tin theo quy định của pháp luật hiện hành</p></description>
       
     </item>
     

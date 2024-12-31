@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo</title>
-      <link>http://localhost:1313/tags/demo/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Functional Programming</title>
+      <link>https://example.com/tags/functional-programming/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/demo/</guid>
+      <guid>https://example.com/tags/functional-programming/</guid>
       
         <description></description>
       
@@ -20,131 +20,186 @@
     
     <item>
       <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/index/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shortcode</title>
-      <link>http://localhost:1313/tags/shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/shortcode/</guid>
+      <guid>https://example.com/tags/index/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Java</title>
+      <link>https://example.com/tags/java/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/redirect/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RedirectUrl</title>
-      <link>http://localhost:1313/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/redirecturl/</guid>
+      <guid>https://example.com/tags/java/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Lambda Expressions</title>
+      <link>https://example.com/tags/lambda-expressions/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/css/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://example.com/tags/lambda-expressions/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Lập Trình</title>
+      <link>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/markdown/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Nâng Cao</title>
+      <link>https://example.com/tags/n%C3%A2ng-cao/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>https://example.com/tags/n%C3%A2ng-cao/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Biến</title>
+      <link>https://example.com/tags/bi%E1%BA%BFn/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>https://example.com/tags/bi%E1%BA%BFn/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Thumbnail</title>
-      <link>http://localhost:1313/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Cơ Bản</title>
+      <link>https://example.com/tags/c%C6%A1-b%E1%BA%A3n/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/thumbnail/</guid>
+      <guid>https://example.com/tags/c%C6%A1-b%E1%BA%A3n/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collections</title>
+      <link>https://example.com/tags/collections/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/collections/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exception</title>
+      <link>https://example.com/tags/exception/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/exception/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Generics</title>
+      <link>https://example.com/tags/generics/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/generics/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kiểu Dữ Liệu</title>
+      <link>https://example.com/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>https://example.com/tags/oop/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/oop/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Threads</title>
+      <link>https://example.com/tags/threads/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/threads/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cá Nhân</title>
+      <link>https://example.com/tags/c%C3%A1-nh%C3%A2n/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/c%C3%A1-nh%C3%A2n/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chia Sẻ</title>
+      <link>https://example.com/tags/chia-s%E1%BA%BB/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/chia-s%E1%BA%BB/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java &amp; JavaScript</title>
+      <link>https://example.com/tags/java--javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/java--javascript/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/tags/javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/javascript/</guid>
       
         <description></description>
       
